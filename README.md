@@ -57,3 +57,9 @@ Aby uruchomiÄ‡ aplikacjÄ™ Spring Boot, wykonujemy polecenie (w windows zamiast .
 ```
 ./gradlew bootRun
 ```
+
+Notatka od Ali:
+
+Proszê o instrukcjê do postêpowania w zwi¹zku z apkami do Heroku :).
+Pozdrawiam,
+Alicja
